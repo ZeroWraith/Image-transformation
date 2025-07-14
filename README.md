@@ -35,10 +35,9 @@ Before running this notebook, ensure you have the following installed:
 
 1.  **Clone the repository (or download the notebook):**
     ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+    git clone https://github.com/ZeroWraith/Image-transformation
     cd your-repo-name
     ```
-    *(Replace `your-username` and `your-repo-name` with your actual GitHub details)*
 
 2.  **Install the required Python packages:**
     ```bash
@@ -70,8 +69,6 @@ The notebook demonstrates the following transformations:
 | Image 1 (`house.png`) | Image 2 (`heart.png`) |
 |-----------------------|-----------------------|
 | ![House Image](house.png) | ![Heart Image](heart.png) |
-
-*(Note: You'll need to add `house.png` and `heart.png` to your repository for these images to display correctly in the README.)*
 
 ### Image Addition (Corrected Method)
 
